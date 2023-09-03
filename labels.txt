@@ -1,0 +1,11 @@
+dao
+falchion
+gladius
+katana
+khabre
+longsword
+nagni
+nimcha
+shamsheer
+tachi
+viking
