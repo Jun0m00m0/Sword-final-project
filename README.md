@@ -6,7 +6,7 @@
 
 ## The Algorithm
 
-I am using image classification and feeding images of different types of swords into the resnet 18 model using transfer learning. The reasoning behind the use of transfer learning is because it would be way too time consuming to make our own model from scratch. 
+I am using image classification and feeding images of different types of swords into the resnet 18 model using transfer learning. The reasoning behind the use of transfer learning is because it would be way too time consuming to make our own model from scratch. The dataset I used is here: https://www.kaggle.com/datasets/davneeshsingh84/multiclass-swords-dataset?resource=download. The main problem with the dataset was that most of the images used as examples were completely inaccurate.
 
 ## Running this project
 
