@@ -10,7 +10,7 @@ I am using image classification and feeding images of different types of swords 
 
 ## Running this project
 
-1. Add steps for running this project.
+1. magenet.py --model=resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt katana.jpg output.jpg
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
 [View a video explanation here](video link)
