@@ -2,7 +2,7 @@
 
  I am using image classification to sort different photos of sword into their respected classification. the inspiration behind this project is my knowledge and hyperfixation on smithing and fencing. I myself am a Game Master for multiple TTRPG's (Tabletop roleplaying games like for example: Dungeons and dragons, Pathfinder, etc..), and how I thought it could be useful is for people who are getting into that kinda stuff and don't already have much knowledge about fantasy weapons.
 
-![add image descrition here](direct image link here)
+![An image of a katana](output.jpg)
 
 ## The Algorithm
 
