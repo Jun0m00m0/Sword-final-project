@@ -13,4 +13,4 @@ I am using image classification and feeding images of different types of swords 
 1. https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md.
 2. imagenet.py --model=resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt katana.jpg output.jpg.
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/Z805Ii-2HRw)
